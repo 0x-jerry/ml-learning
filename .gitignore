@@ -131,3 +131,4 @@ dmypy.json
 temp
 .DS_Store
 *.pkl
+*.onnx
