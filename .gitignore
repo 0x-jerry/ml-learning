@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 temp
+.DS_Store
+*.pkl
